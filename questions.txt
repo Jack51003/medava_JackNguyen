@@ -1,0 +1,10 @@
+QUESTIONS!
+
+1. In the assignment, we learned about interfaces and what they are used for, but I am sitll a little confused on when I should be using interfaces in place of a type. Can you explain this a little more?
+2. As for the reflect part of the assignment, I am fascinated on how it works. How does adding this functionality help our program determine what type of data we are working with dynamically? What difference does it make in our code?
+3. The @ annotation is something I have never seen before, since this is the first time I'm working with Java. What are some other annotations that are used in Java aside from @Override and what would they be used for?
+4. What are some differences between using the Double class and the double primitive type? When would you use one over the other?
+5. What changed when we used ArrayList instead of List? I know you explained why the List type did not work, but I still don't get fully why ArrayList worked instead.
+6. Again, first time using Java, but the way we do OOP with it is similar to what we've done in C++. But why do I have to go through so many steps to get Java working? Why couldn't I just write my code in a text editor and compile it with a compiler like I do with C++?
+
+Overall, I had a good time with this assignment. I learned a lot about Java, virtual functions, interfaces... but there are still some things that I need to learn more to fully understand.
